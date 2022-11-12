@@ -1,0 +1,23 @@
+{
+  "name": "mongolesson3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/cnel113/mongolesson3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnel113/mongolesson3/issues"
+  },
+  "homepage": "https://github.com/cnel113/mongolesson3#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  }
+}
